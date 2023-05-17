@@ -1,4 +1,4 @@
-### Hey There, 🚀🚀I’m Des :) `#C0CA33`
+### Hey There, 🚀🚀I’m Des :) #C0CA33
 
 
 I love to explore uncharted territories, ideate humanitarian solutions and learn as I travel from many different cultural traditions!
