@@ -1,4 +1,6 @@
 ### Hey There, 🚀 I’m Des!
+< img src = "https://media.giphy.com/media/X5wgAOZeK5mTYtvTnO/giphy.gif">
+
 I am a multi-creative passionate from New York City, now based around the world.
 My dream is to use my skills to be of great service to humans all over the 🌏
 
