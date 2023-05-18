@@ -2,6 +2,13 @@
 I am a multi-creative passionate from New York City, now based around the world.
 My dream is to use my skills to be of great service to humans all over the 🌏
 
+
+<center> 
+  
+  You can find me on <a href= "https://www.linkedin.com/in/trans-brands/">LinkedIn</a>
+  
+</center>
+
 ```yaml
 
 
