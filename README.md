@@ -44,9 +44,10 @@ and how enriching it can be to learn a skill and use it to help support others' 
 }
 
 💬Fun Facts {
--  My favorite sport is Brazilian Jiu Jitsu. Growing up, I trained with the NYC Renzo Gracie Jiu Jitsu group and was a natural. It taught me discipline, and another invaluable lesson: _it doesn't matter how big/loud/bulky you are_, to win, it's about how smart, strategic and quick you are at landing your move! I take that with me in everything I do, til this day.
-- Every month I make a special themed music playlist, to match whatever season I feel I am in. It helps me set the tone for what
-phase I am in. I am also known by my partner and friends to be the playlist dj for all get togethers, as I have such diverse vibed playlists haha :D!
+-  My favorite sport is Brazilian Jiu Jitsu. Growing up, I trained with the NYC Renzo Gracie Jiu Jitsu group and it just clicked.
+It taught me discipline, and an invaluable lesson: To win, it doesn't matter how big/loud/bulky you are, it's always about how smart, strategic and quick you are in landing your move! Commit completely!  
+- I love spotify playlists, and routinely every month I curate a themed playlist, to match whatever season I feel I am in. 
+It helps me set the tone for what phase I am in. And it is often used as a dj set for any friend get togethers. I tend to be the designated dj.😝
 - Why'd I choose this industry? I see an opportunity here for more diverse voices (specifically QTPOC) to be able to use their lived experiences and wisdom from life, to provide new age frameworks to leverage tech as a crisis averter, reducer of income/racial/quality-of-life worldwide!
 }
 
