@@ -2,7 +2,7 @@
 # Hey There, 🚀 I’m Des!
 
 
-<img src= "https://media.giphy.com/media/X5wgAOZeK5mTYtvTnO/giphy.gif" alt="Starry Night Banner I Designed Using JSON, HTML and CSS" width="1920" height="50vh">
+<img src= "https://media.giphy.com/media/X5wgAOZeK5mTYtvTnO/giphy.gif" alt="Starry Night Banner I Designed Using JSON, HTML and CSS" width="1920" height="100vh">
 
   </center>
 ## I am a multi-creative passionate from New York City, now based around the world.
