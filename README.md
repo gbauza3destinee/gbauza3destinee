@@ -1,12 +1,12 @@
-### Hey There, 🚀🚀I’m Des 
+### Hey There, 🚀🚀I’m Des!
+I am a multi creative passionate creative from New York City, now based around the world. 
+My dream is to be of service to humans and use my skills and services for the betterment of humanity.
 
 ```yaml
 
 
-🌱 I’m currently learning about dynamic programming languages such as Python, so that I can widen my understanding of more computer language frameworks within the big world of Computer Science!
 
-
-Technologies{
+🌱 Technologies{
 - Java Language 
 - Spring Framework 
 - Dagger Framework 
