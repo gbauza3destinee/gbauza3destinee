@@ -1,6 +1,6 @@
 
   <center> 
-<img src= "https://media.giphy.com/media/X5wgAOZeK5mTYtvTnO/giphy.gif" alt="Starry Night Banner I Designed Using JSON, HTML and CSS" width="1920" height="400">
+<img src= "https://media.giphy.com/media/X5wgAOZeK5mTYtvTnO/giphy.gif" alt="Starry Night Banner I Designed Using JSON, HTML and CSS" width="100vw" height="100vh">
 
   </center>
 
