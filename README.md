@@ -5,8 +5,8 @@
   </center>
 
 # Hey There, 🚀 I’m Des!
-** I am a multi-creative passionate from New York City, now based around the world. **
-** I love to learn and use my skills to be of service to humans and the 🌏 ! **
+I am a multi-creative passionate from New York City, now based around the world.
+**I love to learn and use my skills to be of service to humans and the 🌏 !**
 
 
 
