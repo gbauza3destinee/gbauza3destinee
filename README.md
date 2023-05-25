@@ -4,10 +4,11 @@
 
   </center>
 
-# Hi 🚀 I’m Des!
+# Hi 💫 I’m Des!
 I am an aspiring Non Binary programmer born and raised in New York City. I love making programs, and working remotely with my sidekick bunny- who reminds me to eat my greens🥬.
-**I am excited to participate in the ever expanding field of tech. My goal is to meet any problem with 
-confidence and put myself into new experiences, so I can produce smarter, cleaner and more optimized solutions with my code. ** 
+
+I am excited to participate in the ever expanding field of tech. My goal is to meet any problem with 
+confidence and put myself into new experiences, so I can produce smarter, cleaner and more optimized solutions with my code. 
 
 
 
