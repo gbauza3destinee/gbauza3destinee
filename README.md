@@ -4,9 +4,10 @@
 
   </center>
 
-# Hey There, 🚀 I’m Des!
-I am a multi-creative passionate from New York City, now based around the world.
-**I love to learn and use my skills to be of service to humans and the 🌏 !**
+# Hi 🚀 I’m Des!
+I am an aspiring Non Binary programmer born and raised in New York City. I love making programs, and working remotely with my sidekick bunny- who reminds me to eat my greens🥬.
+**I am excited to participate in the ever expanding field of tech. My goal is to meet any problem with 
+confidence and put myself into new experiences, so I can produce smarter, cleaner and more optimized solutions with my code. ** 
 
 
 
@@ -18,6 +19,19 @@ I am a multi-creative passionate from New York City, now based around the world.
 ```yaml
 
 
+🌌Projects {
+- Shopify App Extensions: Use Shopify's Liquid Template files to implement new Shop Features for a Client.
+- Zodiak App Creation: Making astrology simple to use and right at your finger tips! Give the Zodiak App your birthdate, name and pronouns and it will match up your Solar Sign is and give some tips on how to leverage it! This Zodiak app, is an API Endpoint App, which takes in a User's birthdate and provides a corresponding Zodiac and Elemental Sign.  
+- Nickname Generator App : A fun interactive program, that offers a variety of new nicknames for your chosen birthname. Has several modes *surprise me* , *sillyName* , *simpleNickname*, take that to your friends! Written as a terminal based program in Python. 
+
+}
+
+🔭Currently Working On {
+- Creating algorithms and programs using the Java Language, by way of the BloomTech Backend program.
+- Learning Python, a new dynamic programming language (with the intention of widening my understanding of
+other non-static computer languages and their application in real life!)
+- My first contract developer position, I am excited to use my skills to support a client's goals.
+}
 
 🌱 Technologies{
 - Java Language 
@@ -25,49 +39,25 @@ I am a multi-creative passionate from New York City, now based around the world.
 - Dagger Framework 
 - Mockito Framework
 - JUNIT5 Testing
-- DynamoDB Database
 - AWS Lambda Functions 
-- AWS CloudFormation 
+- AWS CloudFormation & DynamoDB Database
+- OpenAPI RapiDoc API Documentation
 
 }
 
-🔭Currently Working On {
-- I’m currently working on completing projects using Java Language, a static language 
-that I have been studying for over a year in the BloomTech Backend program.
-- Learning Python, a new dynamic programming language (with the intention of widening my understanding of
-other non-static computer languages and their application in real life!)
-- Liquid Template Language ( A template language used by Shopify)
-
-}
-
-
-🌌Projects {
-- Add in new Shop Features for a contract project, using Shopify's Liquid Template Files 
-- Create an API Endpoint App, which takes in a User's birthdate and provides a corresponding Zodiac and Elemental. 
-
-}
 
 🌈Interests {
-- Learning new languages anad traveling to new countries to practice with locals (French, Spanish)
-- Forest Bathing and Gardening
-- Taking care of my little bunnies
-- Graphic Design! During the Pandemic I built up and opened a Trans and Gender Non Conforming DesignHouse to support Trans entrepreneurs and
-service providers, who struggled with market saturation and invisibility online. 
-Founding 'Trans Brands' I learned about *growth mindset*, entrepreneurial drive (_if you can think it, you can make it_)
-and how enriching it can be to learn a skill and use it to help support others' dreams!
+- I love to learn new languages and practice with local penpals! I began doing this in HighSchool with French.
+- Gardening, Open Source Seeds, Biodiversity
+- Self Development and Growth Mindset practices - I believe the sky is the limit!
+- Graphic Design and contributing to Trans Brands 
 
 }
 
 💬Fun Facts {
--  My favorite sport is Brazilian Jiu Jitsu. Growing up, I trained with the NYC Renzo Gracie Jiu Jitsu group and it just clicked.
-It taught me discipline, and an invaluable lesson: To win, it doesn't matter how big/loud/bulky you are, 
-it's always about how smart, strategic and quick you are in landing your move! Commit completely!  
-- Every month, I curate a new themed playlist to match whatever season I feel I am in. 
-I find it helps me feel motivated and sets the tone of whatever phase/goal I am striving to move through.
-This is why, in my friend groups I tend to be the designated-dj at any function!😝
-- Why'd I choose this industry? I see an opportunity here for more diverse voices (specifically QTPOC) 
-to be able to use their lived experiences and wisdom from life, to weigh into this new age of tech and emerging frameworks. I do believe 
-we can leverage tech as a resolver of many human caused ecological and social crises.
+-  My favorite sport is Brazilian Jiu Jitsu, growing up, I trained almost everyday with Renzo Gracie's team. 
+-  I love curating monthly themed playlists to fit whatever season I am in!
+-
 }
 
 
