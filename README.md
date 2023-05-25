@@ -22,7 +22,7 @@ confidence and put myself into new experiences, so I can produce smarter, cleane
 🌌Projects {
 - Shopify App Extensions: Use Shopify's Liquid Template files to implement new Shop Features for a Client.
 - Zodiak App Creation: Making astrology simple to use and right at your finger tips! Give the Zodiak App your birthdate, name and pronouns and it will match up your Solar Sign is and give some tips on how to leverage it! This Zodiak app, is an API Endpoint App, which takes in a User's birthdate and provides a corresponding Zodiac and Elemental Sign.  
-- Nickname Generator App : A fun interactive program, that offers a variety of new nicknames for your chosen birthname. Has several modes *surprise me* , *sillyName* , *simpleNickname*, take that to your friends! Written as a terminal based program in Python. 
+- Nickname Generator App Creation : A fun interactive program, that offers a variety of new nicknames for your chosen birthname. Has several modes *surprise me* , *sillyName* , *simpleNickname*, take that to your friends! Written as a terminal based program in Python. 
 
 }
 
@@ -55,9 +55,8 @@ other non-static computer languages and their application in real life!)
 }
 
 💬Fun Facts {
+-  Music is my favorite! I love curating monthly themed playlists to fit whatever season I am in.
 -  My favorite sport is Brazilian Jiu Jitsu, growing up, I trained almost everyday with Renzo Gracie's team. 
--  I love curating monthly themed playlists to fit whatever season I am in!
--
 }
 
 
