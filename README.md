@@ -13,7 +13,7 @@ confidence and put myself into new experiences, so I can produce smarter, cleane
 
 
   
- ### You can find me on <a href= "https://www.linkedin.com/in/trans-brands/">LinkedIn</a>
+ ### You can find me on <a href= "https://www.linkedin.com/in/destineebauza">LinkedIn</a>
   
 
 
