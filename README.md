@@ -6,7 +6,7 @@
 
  ### You can find me on <a href= "https://www.linkedin.com/in/destineebauza">LinkedIn</a>
   
-<h1 align="center">Hi  💫👋, I'm Des</h1>
+<h1 align="center">Hi  💫, I'm Des</h1>
 <h3 align="center">Non Binary Backend Developer from NYC</h3>
 
 I am an aspiring Non Binary programmer born and raised in New York City. I love making programs, and working remotely with my sidekick bunny- who reminds me to eat my greens🥬.
@@ -18,15 +18,15 @@ confidence and put myself into new experiences, so I can produce smarter, cleane
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gbauza3destinee" alt="gbauza3destinee" /></a> </p>
 
-- 🔭 I’m currently working on [adding functionality and automations to a client's online store operations!](https://www.facebook.com/Lareinaslashess/)
+- 🔭 I’m currently working on [adding functionality and automations to a Client's online store operations!](https://www.facebook.com/Lareinaslashess/)
 
 - 🌱 I’m currently learning **about Mycellium Networks!**
 
-- 👯 I’m looking to collaborate on [music or game software development!](https://calendly.com/desgbauza)
+- 👯 I’m looking to collaborate on [🎶 music or game 🎮 software developers or projects!](https://calendly.com/desgbauza)
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/destineebauza/](https://www.linkedin.com/in/destineebauza/)
 
-- 📝 I regularly design on [instagram.com/transbrands](instagram.com/transbrands)
+- 📝 I regularly contribute designs at [instagram.com/transbrands](instagram.com/transbrands)
 
 - 💬 Ask me about **Java, Creating my first astrology app, Dependency Injection or interesting Data Structures**
 
