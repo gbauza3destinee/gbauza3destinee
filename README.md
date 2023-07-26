@@ -4,17 +4,45 @@
 
   </center>
 
-# Hi 💫 I’m Des!
+ ### You can find me on <a href= "https://www.linkedin.com/in/destineebauza">LinkedIn</a>
+  
+<h1 align="center">Hi  💫👋, I'm Des</h1>
+<h3 align="center">Non Binary Backend Developer from NYC</h3>
+
 I am an aspiring Non Binary programmer born and raised in New York City. I love making programs, and working remotely with my sidekick bunny- who reminds me to eat my greens🥬.
 
 I am excited to participate in the ever expanding field of tech. My goal is to meet any problem with 
 confidence and put myself into new experiences, so I can produce smarter, cleaner and more optimized solutions with my code. 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gbauza3destinee&label=Profile%20views&color=0e75b6&style=flat" alt="gbauza3destinee" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gbauza3destinee" alt="gbauza3destinee" /></a> </p>
 
-  
- ### You can find me on <a href= "https://www.linkedin.com/in/destineebauza">LinkedIn</a>
-  
+- 🔭 I’m currently working on [adding functionality and automations to a client's online store operations!](https://www.facebook.com/Lareinaslashess/)
+
+- 🌱 I’m currently learning **about Mycellium Networks!**
+
+- 👯 I’m looking to collaborate on [music or game software development!](https://calendly.com/desgbauza)
+
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/destineebauza/](https://www.linkedin.com/in/destineebauza/)
+
+- 📝 I regularly design on [instagram.com/transbrands](instagram.com/transbrands)
+
+- 💬 Ask me about **Java, Creating my first astrology app, Dependency Injection or interesting Data Structures**
+
+- 📫 How to reach me **dgb.javadeveloper@gmail.com**
+
+- ⚡ Fun fact **My favorite movie is 'Fantastic Fungi'**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/@destineebauza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@destineebauza" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gbauza3destinee&show_icons=true&locale=en&layout=compact" alt="gbauza3destinee" /></p>
 
 
 ```yaml
