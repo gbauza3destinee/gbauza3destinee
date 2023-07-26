@@ -3,13 +3,11 @@
 <img src= "https://media.giphy.com/media/X5wgAOZeK5mTYtvTnO/giphy.gif" alt="Starry Night Banner I Designed Using JSON, HTML and CSS" width="100vw" height="100vh">
 
   </center>
-
- ### You can find me on <a href= "https://www.linkedin.com/in/destineebauza">LinkedIn</a>
   
 <h1 align="center">Hi  💫, I'm Des</h1>
 <h3 align="center">Non Binary Backend Developer from NYC</h3>
 
-I am an aspiring Non Binary programmer born and raised in New York City. I love making programs, and working remotely with my sidekick bunny- who reminds me to eat my greens🥬.
+I am a Non Binary programmer born and raised in New York City. I love making programs, pursuing curiosity and learning from life, and working remotely beside my sidekick bunny- who reminds me to eat my daily greens🥬.
 
 I am excited to participate in the ever expanding field of tech. My goal is to meet any problem with 
 confidence and put myself into new experiences, so I can produce smarter, cleaner and more optimized solutions with my code. 
@@ -34,9 +32,10 @@ confidence and put myself into new experiences, so I can produce smarter, cleane
 
 - ⚡ Fun fact **My favorite movie is 'Fantastic Fungi'**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 🫶🏽 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/@destineebauza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@destineebauza" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
