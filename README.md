@@ -4,7 +4,7 @@
 
   </center>
   
-<h1 align="center">💫 Hi , I'm Des</h1>
+<h1 align="center"> Hi, I'm Des 💫 </h1>
 <h3 align="center">Non Binary Backend Developer from NYC</h3>
 
 I am a Non Binary programmer born and raised in New York City. I love making programs, pursuing curiosity and learning from life, and working remotely beside my sidekick bunny- who reminds me to eat my daily greens🥬.
