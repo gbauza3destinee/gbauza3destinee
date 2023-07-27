@@ -48,7 +48,7 @@ enthusiasm and creativity while learning from new experiences and problems.
 
 
 🌌Projects {
-- Shopify App Extensions: Use Shopify's Liquid Template files to implement new Shop Features for a Client.
+- Shopify App Extensions: Use Shopify's Liquid Template files to implement new Shop Features for a Client's shop.
 - Zodiak App Creation: Making astrology simple to use and right at your finger tips! Give the Zodiak App your birthdate, name and pronouns and it will match up your Solar Sign is and give some tips on how to leverage it! This Zodiak app, is an API Endpoint App, which takes in a User's birthdate and provides a corresponding Zodiac and Elemental Sign.  
 - Nickname Generator App Creation : A fun interactive program, that offers a variety of new nicknames for your chosen birthname. Has several modes *surprise me* , *sillyName* , *simpleNickname*, take that to your friends! Written as a terminal based program in Python. 
 
