@@ -9,8 +9,8 @@
 
 I am a Non Binary programmer born and raised in New York City. I love making programs, pursuing curiosity and learning from life, and working remotely beside my sidekick bunny- who reminds me to eat my daily greens🥬.
 
-I am excited to participate in the ever expanding field of tech. My goal is to meet any problem with 
-confidence and put myself into new experiences, so I can produce smarter, cleaner and more optimized solutions with my code. 
+I am excited to participate in the ever expanding field of tech! My goal is to meet any problem with 
+enthusiasm and creativity while learning from new experiences and problems. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gbauza3destinee&label=Profile%20views&color=0e75b6&style=flat" alt="gbauza3destinee" /> </p>
 
@@ -20,17 +20,17 @@ confidence and put myself into new experiences, so I can produce smarter, cleane
 
 - 🌱 I’m currently learning **about Mycellium Networks!**
 
-- 👯 I’m looking to collaborate on [🎶 music or game 🎮 software developers or projects!](https://calendly.com/desgbauza)
+- 👯 I’m looking to collaborate on [🎶 music or game 🎮 software projects!](https://calendly.com/desgbauza)
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/destineebauza/](https://www.linkedin.com/in/destineebauza/)
 
 - 📝 I regularly contribute designs at [instagram.com/transbrands](instagram.com/transbrands)
 
-- 💬 Ask me about **Java, Creating my first astrology app, Dependency Injection or interesting Data Structures**
+- 💬 Ask me about **Java, Creating my first Astrology App, Dependency Injection or interesting Data Structures**
 
 - 📫 How to reach me **dgb.javadeveloper@gmail.com**
 
-- ⚡ Fun fact **My favorite movie is 'Fantastic Fungi'**
+- ⚡ Fun fact **My favorite movie is 🍄'Fantastic Fungi'🍄**
 
 <h3 align="left"> 🫶🏽 Connect with me:</h3>
 <p align="left">
