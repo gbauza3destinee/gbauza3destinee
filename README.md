@@ -4,7 +4,7 @@
 <h1 align="center"> Hi, I'm Des 💫 </h1>
 <h3 align="center">Non Binary Backend Developer from NYC</h3>
 
-I love making programs, pursuing curiosity and learning from life, all while working remotely beside my sidekick bunny- who reminds me to eat my daily greens🥬.
+I love making programs, pursuing curiosity and learning from life, all while working remotely beside my sidekick bunny.
 
 I am excited to participate in the ever expanding field of tech! My goal is to meet any problem with 
 enthusiasm and creativity while learning from new experiences and problems. 
