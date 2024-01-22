@@ -48,7 +48,8 @@ enthusiasm and creativity while learning from new experiences and problems.
 
 
 🌌Projects {
-- Shopify App Extensions: Use Shopify's Liquid Template files to implement new Shop Features for a Client's shop.
+- LABS Assignment App Creation: Built a Java application with Spring Boot following the MVC pattern and implemented functionality to create an Assignment reviewing app. Where users can submit their assignments and view a collection of their due assignments, while, learner assistants can submit feedback and review multiple users’ submitted assignments. 
+
 - Zodiak App Creation: Making astrology simple to use and right at your finger tips! Give the Zodiak App your birthdate, name and pronouns and it will match up your Solar Sign is and give some tips on how to leverage it! This Zodiak app, is an API Endpoint App, which takes in a User's birthdate and provides a corresponding Zodiac and Elemental Sign.  
 - Nickname Generator App Creation : A fun interactive program, that offers a variety of new nicknames for your chosen birthname. Has several modes *surprise me* , *sillyName* , *simpleNickname*, take that to your friends! Written as a terminal based program in Python. 
 
@@ -68,7 +69,8 @@ other non-static computer languages and their application in real life!)
 - Mockito Framework
 - JUNIT5 Testing
 - AWS Lambda Functions 
-- AWS CloudFormation & DynamoDB Database
+- AWS API Gateway
+- DynamoDB Database & JPA Repository
 - OpenAPI RapiDoc API Documentation
 
 }
