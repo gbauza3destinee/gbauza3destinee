@@ -48,7 +48,7 @@ enthusiasm and creativity while learning from new experiences and problems.
 
 
 🌌Projects {
-- LABS Assignment App Creation: Built a Java application with Spring Boot following the MVC pattern and implemented functionality to create an Assignment reviewing app. Where users can submit their assignments and view a collection of their due assignments, while, learner assistants can submit feedback and review multiple users’ submitted assignments. 
+- LABS Assignment App Creation: Built a Java application with Spring Boot following the MVC pattern and implemented functionality to create an Assignment reviewing app. Where users can submit their assignments and view a collection of their due assignments, while, learner assistants can submit feedback and review multiple users’ submitted assignments. Created a Service Class, Controller Class, Repository Class and Entity classes.
 
 - Zodiak App Creation: Making astrology simple to use and right at your finger tips! Give the Zodiak App your birthdate, name and pronouns and it will match up your Solar Sign is and give some tips on how to leverage it! This Zodiak app, is an API Endpoint App, which takes in a User's birthdate and provides a corresponding Zodiac and Elemental Sign.  
 - Nickname Generator App Creation : A fun interactive program, that offers a variety of new nicknames for your chosen birthname. Has several modes *surprise me* , *sillyName* , *simpleNickname*, take that to your friends! Written as a terminal based program in Python. 
