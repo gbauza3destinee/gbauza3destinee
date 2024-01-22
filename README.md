@@ -1,8 +1,5 @@
 
-  <center> 
-<img src= "https://media.giphy.com/media/X5wgAOZeK5mTYtvTnO/giphy.gif" alt="Starry Night Banner I Designed Using JSON, HTML and CSS" width="100vw" height="100vh">
-
-  </center>
+  
   
 <h1 align="center"> Hi, I'm Des 💫 </h1>
 <h3 align="center">Non Binary Backend Developer from NYC</h3>
