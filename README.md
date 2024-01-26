@@ -11,7 +11,6 @@ enthusiasm and creativity while learning from new experiences and problems.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gbauza3destinee&label=Profile%20views&color=0e75b6&style=flat" alt="gbauza3destinee" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gbauza3destinee" alt="gbauza3destinee" /></a> </p>
 
 - 🔭 I’m currently working on [adding functionality and automations to a Client's online store operations!](https://www.facebook.com/Lareinaslashess/)
 
