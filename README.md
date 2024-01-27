@@ -51,10 +51,9 @@ enthusiasm and creativity while learning from new experiences and problems.
 }
 
 🔭Currently Working On {
-- Creating algorithms and programs using the Java Language, by way of the BloomTech Backend program.
+- Studying algorithms and program design with the Java Language.
 - Learning Python, a new dynamic programming language (with the intention of widening my understanding of
 other non-static computer languages and their application in real life!)
-- My first contract developer position, I am excited to use my skills to support a client's goals.
 }
 
 🌱 Technologies{
