@@ -64,9 +64,11 @@ other non-static computer languages and their application in real life!)
 - Dagger Framework 
 - Mockito Framework
 - JUNIT5 Testing
-- AWS Lambda Functions 
+- AWS Lambda Functions
+- AWS EC2
 - AWS API Gateway
 - DynamoDB Database & JPA Repository
+- PostgreSQL database 
 - OpenAPI RapiDoc API Documentation
 
 }
