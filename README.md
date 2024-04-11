@@ -4,7 +4,7 @@
 <h1 align="center"> Hi, I'm Des 💫 </h1>
 <h3 align="center">Non Binary Backend Developer from NYC</h3>
 
-I love documentaries, pursuing curiosity and coffee-fueled coding sessions!
+I love documentaries, pursuing curiosity and coffee-fueled coding sessions! Welcome to my Github :) 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gbauza3destinee&label=Profile%20views&color=0e75b6&style=flat" alt="gbauza3destinee" /> </p>
