@@ -44,10 +44,35 @@ enthusiasm and creativity while learning from new experiences and problems.
 
 
 🌌Projects {
-- LABS Assignment App Creation: Built a Java application with Spring Boot following the MVC pattern and implemented functionality to create an Assignment reviewing app. Where users can submit their assignments and view a collection of their due assignments, while, learner assistants can submit feedback and review multiple users’ submitted assignments. Created a Service Class, Controller Class, Repository Class and Entity classes.
-- Zodiak App Creation: Making astrology simple to use and right at your finger tips! Give the Zodiak App your birthdate, name and pronouns and it will match up your Solar Sign is and give some tips on how to leverage it! This Zodiak app, is an API Endpoint App, which takes in a User's birth day and month and provides a corresponding Zodiac/Elemental Sign and description.
-- Sustainable Delivery Service:  A major delivery service’s packaging options have expanded to include polybags, and plans to expand to even more packaging material types in the future. To meet the sustainability goals of this delivery company, I implemented new delivery packaging options with materials that had lower scores on the sustanability index. Then, I created 5 different types of costs to find the best shipment option given the delivery service's specific goal. For any given order, the delivery service could now find the best shipment option considering a blended cost for example, let's find the carbon cost which represents the environmental impact with the most cost efficient packaging to find the best route and packaging to use for a new order. 
-- Nickname Generator App Creation : Dabbled in Python to practice the language with a fun interactive program, that offers a variety of new nicknames for your chosen birthname. Has several modes *surprise me* , *sillyName* , *simpleNickname*, take that to your friends! Written as a terminal based program in Python. 
+- LABS Assignment App Creation: Built a Java application with
+Spring Boot following the MVC pattern and implemented functionality
+to create an Assignment reviewing app. Where users can submit their
+assignments and view a collection of their due assignments, while,
+learner assistants can submit feedback and review multiple users’
+submitted assignments. Created a Service Class, Controller Class,
+Repository Class and Entity classes.
+- Zodiak App Creation: Making astrology simple to use and right at
+your finger tips! Give the Zodiak App your birthdate, name and pronouns
+ and it will match up your Solar Sign is and give some tips on how to
+ leverage it! This Zodiak app, is an API Endpoint App, which takes in a
+ User's birth day and month and provides a corresponding Zodiac/Elemental Sign and description.
+- Sustainable Delivery Service:  Designed logic to route a customer's
+order to the most strategic packaging/ shipping center, while considering
+sustainability costs. To meet the sustainability goals of this delivery company,
+I implemented new delivery packaging options with materials that had lower
+scores on the sustanability index. Created logic to have a the shipping
+platform determine the best route for a package- considering a few new factors.
+ Designed a blended strategy class to consider and weigh carbon cost,
+with time cost, when determining a customer’s most efficient shipping route.
+ For any given order, the delivery service could now find the best
+shipment option considering a blended cost for example, let's find the
+carbon cost which represents the environmental impact with the most cost
+efficient packaging to find the best route and packaging to use for a new order. 
+- Nickname Generator App Creation : Dabbled in Python to practice the
+language with a fun interactive program, that offers a variety of new
+nicknames for your chosen birthname. Has several modes *surprise me* ,
+ *sillyName* , *simpleNickname*, take that to your friends!
+Written as a terminal based program in Python. 
 
 }
 
