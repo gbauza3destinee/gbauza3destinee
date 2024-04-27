@@ -18,7 +18,7 @@ I love documentaries, pursuing curiosity and coffee-fueled coding sessions! Welc
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/destineebauza/](https://www.linkedin.com/in/destineebauza/)
 
-- 📝 I regularly contribute designs at [instagram.com/transbrands](instagram.com/transbrands)
+- 📝 I regularly contribute designs at [instagram.com/transbrands]([instagram.com/transbrands](https://www.instagram.com/transbrands/))
 
 - 💬 Ask me about **Java, Creating my first Astrology App, Dependency Injection or interesting Data Structures**
 
