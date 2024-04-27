@@ -43,29 +43,23 @@ I love documentaries, pursuing curiosity and coffee-fueled coding sessions! Welc
 
 🌌Projects {
 - LABS Assignment App Creation: Built a Java application with
-Spring Boot following the MVC pattern and implemented functionality
+Spring Boot, Gradle, the MVC pattern
 to create an Assignment reviewing app. Where users can submit their
 assignments and view a collection of their due assignments, while,
 learner assistants can submit feedback and review multiple users’
 submitted assignments. Created a Service Class, Controller Class,
 Repository Class and Entity classes.
 - Zodiak App Creation: Making astrology simple to use and right at
-your finger tips! Give the Zodiak App your birthdate, name and pronouns
- and it will match up your Solar Sign is and give some tips on how to
- leverage it! This Zodiak app, is an API Endpoint App, which takes in a
+your finger tips! Give the Zodiak App your birthdate
+ and it will identify your Western Astrological zodiac sign and share some information about it! The Zodiak app, is an API Endpoint App, which takes in a
  User's birth day and month and provides a corresponding Zodiac/Elemental Sign and description.
 - Sustainable Delivery Service:  Designed logic to route a customer's
 order to the most strategic packaging/ shipping center, while considering
 sustainability costs. To meet the sustainability goals of this delivery company,
 I implemented new delivery packaging options with materials that had lower
-scores on the sustanability index. Created logic to have a the shipping
-platform determine the best route for a package- considering a few new factors.
- Designed a blended strategy class to consider and weigh carbon cost,
-with time cost, when determining a customer’s most efficient shipping route.
- For any given order, the delivery service could now find the best
-shipment option considering a blended cost for example, let's find the
-carbon cost which represents the environmental impact with the most cost
-efficient packaging to find the best route and packaging to use for a new order. 
+scores on the sustanability index. Wrote out logic to apply different modes to determine the best route for a package considering different company goals.
+Designed a blended strategy class to weigh carbon cost and
+time expense when determining a customer’s most efficient shipping route. 
 - Nickname Generator App Creation : Dabbled in Python to practice the
 language with a fun interactive program, that offers a variety of new
 nicknames for your chosen birthname. Has several modes *surprise me* ,
@@ -75,7 +69,7 @@ Written as a terminal based program in Python.
 }
 
 🔭Currently Working On {
-- Studying algorithms and program design with the Java Language.
+- Studying algorithms and low level design with the Java Language.
 - Learning Python, a new dynamic programming language (with the intention of widening my understanding of
 other non-static computer languages and their application in real life!)
 }
