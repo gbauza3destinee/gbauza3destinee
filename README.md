@@ -59,7 +59,8 @@ sustainability costs. To meet the sustainability goals of this delivery company,
 I implemented new delivery packaging options with materials that had lower
 scores on the sustanability index. Wrote out logic to apply different modes to determine the best route for a package considering different company goals.
 Designed a blended strategy class to weigh carbon cost and
-time expense when determining a customer’s most efficient shipping route. 
+time expense when determining a customer’s most efficient shipping route.
+- WebScraper to Accumulate Donation Links for a Humanitarian Cause: Used the Beautiful Soup library, and connected to Google Sheet's API to crawl through a webpage and find all direct donation links, store them in a list and then write these links to a google spreadsheet that is easily accessible. This project was another project demonstrating my learning process with Python.  
 - Nickname Generator App Creation : Dabbled in Python to practice the
 language with a fun interactive program, that offers a variety of new
 nicknames for your chosen birthname. Has several modes *surprise me* ,
