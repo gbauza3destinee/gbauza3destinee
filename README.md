@@ -10,7 +10,7 @@ I love documentaries, pursuing curiosity and coffee-fueled coding sessions! Welc
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gbauza3destinee&label=Profile%20views&color=0e75b6&style=flat" alt="gbauza3destinee" /> </p>
 
 
-- 🔭 I’m currently working on [adding functionality and automations to a Client's online store operations!]([https://www.facebook.com/ilashkingdo])
+- 🔭 I’m currently working on building a Python written WebScraping application to accumulate and store in an easily accessible place, donation for Palestinian children and families.
 
 - 🌱 I’m currently learning **about Mycellium Networks!**
 
